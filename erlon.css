@@ -1,0 +1,20 @@
+* {
+  margin: 23px;
+  display: grid;
+}
+
+#logo {
+  padding: 0px;
+  color: ;
+}
+
+#main-text {
+  padding: 0px;
+  margin: 33px;
+  color: red;
+}
+
+#contact {
+  color: purple;
+  font-style: italic
+}
